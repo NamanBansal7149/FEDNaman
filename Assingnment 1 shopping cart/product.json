@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "Call of duty - Infinite WarFare",
+        "price": 80,
+        "image": "images/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dying Light 2",
+        "price": 80,
+        "image": "images/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Grand Theft Auto 5",
+        "price": 15,
+        "image": "images/3.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Need For Speed Most Wanted",
+        "price": 3,
+        "image": "images/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Fifa 2024",
+        "price": 100,
+        "image": "images/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Watch Dogs 2",
+        "price": 60,
+        "image": "images/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Fortnite",
+        "price": 10,
+        "image": "images/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "BGMI",
+        "price": 10,
+        "image": "images/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Valorant",
+        "price": 10,
+        "image": "images/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Hitman 3",
+        "price": 500,
+        "image": "images/10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Walking Dead",
+        "price": 100,
+        "image": "images/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "UnCharted 4",
+        "price": 400,
+        "image": "images/12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Spider man 2",
+        "price": 300,
+        "image": "images/13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Urban Freestyle Soccer",
+        "price": 50,
+        "image": "images/14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Tomb Rider",
+        "price": 350,
+        "image": "images/15.jpg"
+    }
+
+]
